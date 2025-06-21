@@ -1,0 +1,30 @@
+[ 
+    { 
+        "id" : 1, 
+        "name" : "Uniquie Collection", 
+        "image" : "https://rfleshop.com/images/thumbnails/240/240/detailed/83/0372438_regal-imperial-wooden-l-shape-sofa.jpeg.png", 
+        "price": "$219.56", 
+        "category": "nike" 
+    }, 
+    { 
+        "id" : 2, 
+        "name" : "Candle Stand ", 
+        "image" : "https://rfleshop.com/images/thumbnails/240/240/detailed/83/0372441_regal-imperial-wooden-l-shape-sofa.jpeg.png", 
+        "price": "$219.56", 
+       " category": "newbalance" 
+    }, 
+    { 
+        "id" : 3, 
+        "name" : "Small Chair", 
+        "image" : "https://rfleshop.com/images/thumbnails/240/240/detailed/83/0371228_regal-athens-wooden-double-sofa.jpeg.png", 
+        "price": "$219.56", 
+        "category": "nike" 
+    }, 
+    { 
+        "id" : 4, 
+        "name" : "wonder Watch", 
+        "image" : "https://rfleshop.com/images/thumbnails/240/240/detailed/83/0371224_regal-athens-wooden-double-sofa.jpeg.png", 
+        "price": "$219.56", 
+        "category": "newbalance" 
+    } 
+]
